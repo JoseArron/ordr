@@ -1,4 +1,5 @@
-import server from "@/server";
+import httpServer from "@/server/http";
 
-export const GET = server.handle;
-export const POST = server.handle;
+// have the elysia server handle nextjs api routes
+export const GET = httpServer.handle;
+export const POST = httpServer.handle;
