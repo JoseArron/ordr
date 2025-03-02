@@ -4,9 +4,10 @@
 
 @custom-variant dark (&:is(.dark *));
 
-@theme {
+@theme inline {
   --font-sans: var(--font-roboto);
   --font-mono: var(--font-roboto-mono);
+  --font-display: var(--font-inter);
 }
 
 :root {
