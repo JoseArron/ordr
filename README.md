@@ -1,6 +1,6 @@
-### Orber
+### Ordr
 
-Orber is a game where players try to guess the correct order of numbers in a grid of shuffled cards, each hiding a number.
+Ordr is a game where players try to guess the correct order of numbers in a grid of shuffled cards, each hiding a number.
 
 ### 🔧 Installation
 
@@ -9,13 +9,13 @@ To get started with the project, follow the steps below:
 Clone the repository:
 
 ```bash
-git clone https://github.com/JoseArron/orber
+git clone https://github.com/JoseArron/ordr
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd orber
+cd ordr
 ```
 
 Install dependencies:
